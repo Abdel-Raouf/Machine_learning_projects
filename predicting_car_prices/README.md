@@ -1,4 +1,4 @@
-# Pject-Description:
+# Project-Description:
 - Predicting Car Prices Using linear Regression (normal equation) with Regularization to improve the model accuracy.
 
 # Tech-Stack:
