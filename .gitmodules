@@ -1,0 +1,3 @@
+[submodule "Fashion_classification/clothing-dataset-small"]
+	path = Fashion_classification/clothing-dataset-small
+	url = https://github.com/alexeygrigorev/clothing-dataset-small.git
